@@ -1,2 +1,2 @@
-# Mitra---the-Python-Virtual-Assistant
+# Mitra - the Python Virtual Assistant
 This is Mitra, the Python Virtual Assistant.
